@@ -1,3 +1,3 @@
 # Homework
 
-Here you can find practise (HTML,CSS).
+Here you can find practise (html, css, js).
